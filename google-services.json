@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195743550063",
+    "firebase_url": "https://paymeal-manager.firebaseio.com",
+    "project_id": "paymeal-manager",
+    "storage_bucket": "paymeal-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195743550063:android:28e823ddc6682c29e75b9a",
+        "android_client_info": {
+          "package_name": "com.paymeal.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195743550063-q5sln5uepkol3tcsaip3dvha8cm9abob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbNWiNaUi1XPL7RTJeaADrkOvxhZDYrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195743550063-q5sln5uepkol3tcsaip3dvha8cm9abob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195743550063-0mgqdmg44psksinklr77bgrhddkbdl1p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.paymeal.manager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
