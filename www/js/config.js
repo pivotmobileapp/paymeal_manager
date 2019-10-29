@@ -1,7 +1,6 @@
-
 var krms_config ={					
-	'ApiUrl':"",
-	'DialogDefaultTitle':"KMRS",
-	'APIHasKey':"",
+	'ApiUrl':"https://paymeal.app/merchantapp/api",
+	'DialogDefaultTitle':"PayMeal",
+	'APIHasKey':"Access24",
 	'debug': false
 };
